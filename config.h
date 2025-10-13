@@ -1,9 +1,5 @@
 #ifndef CONFIG_H
 
-// WIFI Setup
-#define WIFI_SSID ""
-#define WIFI_PASS ""
-
 // Flipper Wiring
 #define NUM_FLIPPERS 3
 #define HOURS        0

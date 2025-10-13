@@ -1,4 +1,5 @@
 #include "config.h"
+#include "secrets.h"
 #include <WiFi.h>
 
 #define NUM_FLAPS  60
