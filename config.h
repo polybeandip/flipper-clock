@@ -1,5 +1,7 @@
 #ifndef CONFIG_H
 
+#define TIMEZONE "EST5EDT"
+
 // Flipper Wiring
 #define NUM_FLIPPERS 3
 #define HOURS        0

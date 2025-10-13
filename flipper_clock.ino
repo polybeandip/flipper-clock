@@ -43,7 +43,7 @@ void setup() {
   }
 
   configTime(0, 0, "pool.ntp.org");
-  setenv("TZ", "EST5EDT", 1);
+  setenv("TZ", TIMEZONE, 1);
   tzset();
 }
 
