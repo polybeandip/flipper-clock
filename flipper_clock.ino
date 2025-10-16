@@ -52,7 +52,7 @@ void loop() {
   updateTime();
 
   switch (state) {
-    // Moves all flippers towards the home position
+    // Move all flippers towards the home position
     case GO_HOME: {
       int allHome = 0;
 
